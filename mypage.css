@@ -1,0 +1,243 @@
+.nav1{
+    position: sticky;
+    display: flex;
+    margin: 0px;
+    margin-block-start: 0rem;
+    margin-block-end: 0rem;
+    padding: 20px 0px;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 8vh;
+    background-color: black;
+    width: 100%;
+}
+
+.title{
+    color:thistle;
+    letter-spacing: 5px;
+    font-size: 40px;
+}
+
+.navul{
+    display: flex;
+    font-size: 18px;
+    justify-content: space-around;
+    width: 60%;
+}
+
+.navul li{
+    list-style:none;
+
+}
+
+.navul a{
+    color: rgb(255, 0, 0);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    letter-spacing: 2px;
+    width: 75px;
+}
+
+.div1{
+    position: absolute;
+    background-color: rgb(226, 212, 11);
+    top: 100px;
+    height: 600px;
+    width: 97%;
+    border: 20px;
+    border-style:groove;
+    
+}
+
+.str1{
+    padding-top:100px ;
+    padding-bottom: 100px;
+    padding-left: 150px;
+    margin: 0px;
+    font-size: 50px;
+    padding: right 10px;
+    width: fit-content;
+    position:absolute;
+    text-transform: uppercase;
+}
+
+
+.back a{
+    position: absolute;
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 3px;
+    top: 90%;
+    left: 90%;
+}
+.lifeimg{ 
+    text-align: right;
+    top: 30px;
+}
+
+
+.homedes{
+    font-size: 22px;
+    font-family: cursive;
+    position: absolute;
+    top: 200px;
+    left: 150px;
+    line-height: 13px;
+}
+
+.div2{
+    position: absolute;
+    top: 700px;
+    background-color: rgb(30, 32, 32);
+    height: 650px;
+    width: 97%;
+    border: 20px;
+    border-style:groove;
+}
+
+.str2{
+    padding-top: 50px ;
+    padding-bottom: 100px;
+    padding-left: 100px;
+    margin: 0px;
+    padding: right 10px;
+    width: fit-content;
+    position:absolute;
+    color: aqua;
+    font-style: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 2px;
+    font-size: 35px;
+    text-transform: uppercase;   
+}
+
+.codedes{
+    font-size: 22px;
+    font-family: cursive;
+    position: absolute;
+    color:chocolate;
+    top: 150px;
+    left: 150px;
+    line-height: 15px;
+}
+
+#githubacc{
+    position:absolute;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    top: 75%;
+    left: 100px;
+}
+
+#instaacc{
+    position:absolute;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    top: 75%;
+    left: 520px;
+    text-transform: uppercase;
+}
+
+#webcode{
+    position:absolute;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    top: 75%;
+    right:100px;
+    text-transform: uppercase;
+}
+
+.div3{
+    position: absolute;
+    top: 1300px;
+    background-color: rgb(168, 169, 245);
+    height: 1500px;
+    width: 97%;
+    border: 20px;
+    border-style:groove;
+}
+
+.str3{
+    padding-top: 50px ;
+    padding-bottom: 100px;
+    padding-left: 100px;
+    margin: 0px;
+    padding: right 10px;
+    width: fit-content;
+    position:absolute;
+    color: rgb(13, 119, 3);
+    font-style: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 2px;
+    font-size: 35px;
+    text-transform: uppercase;   
+}
+
+.photodes{
+    font-size: 22px;
+    font-family: cursive;
+    position: absolute;
+    color:rgb(67, 4, 80);
+    top: 150px;
+    left: 150px;
+    line-height: 15px;
+}
+
+#snapinsta{
+    position:absolute;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    bottom: 10%;
+    left:100px;
+    text-transform: uppercase;
+}
+
+#snapedit{
+    position:absolute;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    bottom: 10%;
+    right:100px;
+    text-transform: uppercase;
+}
+
+
+
+
+
+
+.div4{
+    position: absolute;
+    top: 2800px;
+    background-color:gray;
+    height: 650px;
+    width: 97%;
+    border: 20px;
+    border-style:groove;
+}
+
+.str4{
+    padding-top: 50px ;
+    padding-bottom: 100px;
+    padding-left: 100px;
+    margin: 0px;
+    padding: right 10px;
+    width: fit-content;
+    position:absolute;
+    color:burlywood;
+    font-style: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 2px;
+    font-size: 35px;
+    text-transform: uppercase;
+}
+
+.name{
+    left: 20px;
+    position:absolute;
+    font-family: fantasy;
+    top:10%;
+    font-size: 35px;
+}
